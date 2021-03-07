@@ -49,7 +49,7 @@ public class VM
 	                
 	        }
 	        
-	    }while(cho<=5);
+	    }while(cho<=6);
 	}
 }
 
