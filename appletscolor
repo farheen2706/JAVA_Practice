@@ -1,4 +1,4 @@
-
+#note: applets cannot be executed in jdk version 11 or less as it is an outdated concept
  import java.awt.Color;
  import java.awt.FlowLayout;
  import java.awt.event.ActionEvent;
