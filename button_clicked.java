@@ -36,7 +36,7 @@ import java.awt.FlowLayout;
    {
      if(e.getSource() == btn)
      {
-       label.setText("button clicked");
+       label.setText("button clicked check");
        
      }
      
