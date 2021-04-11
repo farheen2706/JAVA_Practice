@@ -29,7 +29,7 @@ public static void main(String[] args)throws IOException{
      Point p1 = new Point(x1,y1);
      System.out.println("Enter the x coordinate of p1: ");
      x2=Integer.parseInt(br.readLine());
-     System.out.println("Enter the x coordinate of p1: ");
+     System.out.println("Enter the x and coordinate of p1: ");
      y2=Integer.parseInt(br.readLine());
      Point p2 = new Point (x2,y2);
      FindShape(p1,p2);
