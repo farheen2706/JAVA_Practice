@@ -34,4 +34,4 @@ public static void main(String[] args)throws IOException{
      Point p2 = new Point (x2,y2);
      FindShape(p1,p2);
 }
-}
+}//end
