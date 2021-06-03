@@ -1,3 +1,4 @@
+//code for differential analyser algorithm
 import java.awt.*;
 import javax.swing.JFrame;
 import java.util.Scanner;
