@@ -1,4 +1,5 @@
 //code for differential analyser algorithm
+//test program for dda algorithm
 import java.awt.*;
 import javax.swing.JFrame;
 import java.util.Scanner;
