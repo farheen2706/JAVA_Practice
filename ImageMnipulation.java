@@ -1,4 +1,4 @@
-import java.io.*;
+import java.io.*; //hello this is applets
 import java.awt.*;
 public class point{
 public static void FindShape(Point p1,Point p2) {
