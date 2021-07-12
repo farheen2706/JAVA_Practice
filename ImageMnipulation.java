@@ -1,5 +1,5 @@
 import java.io.*; //hello this is applets
-import java.awt.*;
+import java.awt.*;//awt
 public class point{
 public static void FindShape(Point p1,Point p2) {
     double dx,dy;
