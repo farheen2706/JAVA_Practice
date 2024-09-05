@@ -14,7 +14,7 @@ public class triangle {
      c=Integer.parseInt(br.readLine());
      System.out.println("Enter the value of h");
      h=Integer.parseInt(br.readLine());
-     area = 0.5*b*h;
+     area = 0.5*b*h;// calculating area.
      System.out.println("Area= "+area);
      perimeter = a+b+c;
      System.out.println("perimeter: "+perimeter);
